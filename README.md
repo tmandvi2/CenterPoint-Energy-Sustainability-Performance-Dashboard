@@ -3,7 +3,7 @@ This project analyzes CenterPoint Energy’s financial, environmental, and socia
 This project provides a comprehensive analysis of CenterPoint Energy’s financial, environmental, and social performance using public SEC and sustainability data. Our team built dynamic dashboards to visualize trends, highlight risks and opportunities, and support strategic decision-making in line with ESG (Environmental, Social, Governance) priorities.
 ## 📊 Dashboard Preview
 
-![CenterPoint Energy Dashboard](PowerBI.png)
+![CenterPoint Energy Dashboard](PowerBI.PNG)
 
 📈 Key Areas Covered:
 Financial & Operating Performance (2020–2024)
